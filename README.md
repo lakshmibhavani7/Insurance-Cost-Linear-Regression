@@ -100,11 +100,17 @@ These factors collectively explain the majority of insurance charge variations.
 
 ---
 ## ⚙️ How to Use  
+
 1️⃣ Clone the repository:
+
       git clone https://github.com/yourusername/Insurance-Cost-Prediction.git
+      
 2️⃣ Open the notebook:
+
       jupyter notebook Linear_Regression_Handson.ipynb
+      
 3️⃣ Run all cells sequentially to view results and visualizations.
+
 4️⃣ Modify inputs (e.g., smoker status or BMI) to simulate new predictions.
 
 📂 File Structure
