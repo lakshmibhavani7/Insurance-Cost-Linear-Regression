@@ -1,4 +1,4 @@
-# Insurance-Cost-Prediction
+# Insurance-Cost-Linear-Regression
 Predicting medical insurance costs using Linear Regression by analyzing the effect of demographic and lifestyle factors.
 # 🏥 Insurance Cost Prediction using Linear Regression  
 
